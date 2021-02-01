@@ -1,4 +1,4 @@
-package werth.matt.petclinic.model.person;
+package person;
 
 public class Person {
     private String firstName;
